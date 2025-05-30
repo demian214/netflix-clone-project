@@ -1,0 +1,33 @@
+.header {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    min-height: 70px;
+    height: auto;
+    justify-content: space-between;
+    background: transparent;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+.left-section {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 30px;
+    margin-left: 20px;
+}
+
+.right-section {
+    display: flex;
+    align-items: center;
+}
+
+.profile-icon {
+    height: 30px;
+    margin-right: 20px;
+}
