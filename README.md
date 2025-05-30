@@ -79,6 +79,6 @@ MIT 라이선스에 따라 배포됩니다. 자세한 내용은 `LICENSE` 파일
 
 ## 📧 연락처
 
-이름 - [hm.jung214@gmail.com](mailto:hm.jung214@gmail.com)
+정현명 - [hm.jung214@gmail.com](mailto:hm.jung214@gmail.com)
 
 프로젝트 링크: [https://github.com/demian214/netflix-clone-project.git](https://github.com/demian214/netflix-clone-project.git)
